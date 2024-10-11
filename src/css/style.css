@@ -1,0 +1,96 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.ban{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    color: transparent;
+    background-clip: text;
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.color{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    width: 75%;
+    height: 1px;
+}
+
+.color2{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    width: 100%;
+}
+
+.color3{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    width: 615px;
+    height: 2px;
+}
+
+.color4{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    width: 219px;
+}
+
+.color3{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    width: 475px;
+    height: 2px;
+}
+
+.stn2{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+}
+
+.fiilter{
+    backdrop-filter: blur(10px);
+    background-color: #FFFFFF33;
+    width: 316px;
+    height: 50px;
+    border: 1.5px solid transparent;
+    border-radius: 23px;
+}
+
+.fiilter2{
+    backdrop-filter: blur(10px);
+    background-color: #FFFFFF33;
+    width: 399px;
+    height: 50px;
+    border: 1.5px solid transparent;
+    border-radius: 23px;
+}
+
+.line2{
+    background-image: linear-gradient(to right,#00F0FF,#5200FF,#FF2DF7);
+    width: 85%;
+    height: 1px;
+}
+
+.line2{
+    background-image: linear-gradient(to right,#00F0FF,#5200FF,#FF2DF7);
+    width: 95%;
+    height: 1px;
+}
+
+.introduction{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    color: transparent;
+    background-clip: text;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.ban2{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    color: transparent;
+    background-clip: text;
+    font-weight: 400;
+    font-size: 73px;
+}
+
+.ban3{
+    background-image: linear-gradient(to right,#FF2DF7, #5200FF,#00F0FF);
+    color: transparent;
+    background-clip: text;
+    font-weight: 400;
+    font-size: 40px;
+}
